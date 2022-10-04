@@ -1,7 +1,8 @@
 # Code401_Lab-02A
+
 Code401 Lab 02A - Numbers Game
 
-# Numbers Game
+## Numbers Game
 
 ## The Problem Domain
 

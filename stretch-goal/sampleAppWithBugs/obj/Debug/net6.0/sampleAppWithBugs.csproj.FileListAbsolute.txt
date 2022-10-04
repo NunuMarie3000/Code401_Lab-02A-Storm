@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/bin/Debug/net6.0/sampleAppWithBugs
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/bin/Debug/net6.0/sampleAppWithBugs.deps.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/bin/Debug/net6.0/sampleAppWithBugs.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/bin/Debug/net6.0/sampleAppWithBugs.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/bin/Debug/net6.0/sampleAppWithBugs.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/refint/sampleAppWithBugs.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/sampleAppWithBugs.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/stretch-goal/sampleAppWithBugs/obj/Debug/net6.0/ref/sampleAppWithBugs.dll
