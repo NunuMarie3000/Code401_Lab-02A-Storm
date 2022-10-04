@@ -21,5 +21,8 @@ After reading the beginnings of the article above, read and complete [this tutor
 1. After completing the above, answer these questions and make sure you A-C-P them:
 
 - How long did it take you
+  - approx. 2 hours
 - What did you find most helpful?
+  - tutorial with sample code so i can follow and code along
 - What did you find least helpful?
+  - n/a
