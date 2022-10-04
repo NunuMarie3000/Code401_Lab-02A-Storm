@@ -32,7 +32,7 @@ namespace lab02A
       int[] userNumbers = new int[userNum];
 
       //Call the Populate method. arguments: integer array
-      userNumbers = Populate(userNumbers);
+      userNumbers = Populate(userNum, userNumbers);
 
       //Capture the sum by calling the GetSum method. arguments: integer array
       int sum = GetSum(userNumbers);
@@ -51,13 +51,13 @@ namespace lab02A
 
     }
 
-    static int[] Populate(int[] userNumbers)
+    static int[] Populate(int userNum, int[] userNumbers)
     {
       // Iterate through the array and prompt the user to enter a specific number. Example: "Please enter a number 1/6" (indicate to the user what number they are inputting)
 
-      for (int i = 0; i < 6; i++)
+      for (int i = 0; i < userNum; i++)
       {
-        Console.WriteLine($"Please enter number {i + 1} of 6");
+        Console.WriteLine($"Please enter number {i + 1} of {userNum}");
         int newNum = Convert.ToInt32(Console.ReadLine());
         userNumbers[i] = newNum;
       }
