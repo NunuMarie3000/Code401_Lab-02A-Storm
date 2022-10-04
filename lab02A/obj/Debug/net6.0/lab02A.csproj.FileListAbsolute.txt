@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/bin/Debug/net6.0/lab02A
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/bin/Debug/net6.0/lab02A.deps.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/bin/Debug/net6.0/lab02A.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/bin/Debug/net6.0/lab02A.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/bin/Debug/net6.0/lab02A.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/refint/lab02A.dll
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.pdb
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/lab02A.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Code401_Lab-02A-Storm/lab02A/obj/Debug/net6.0/ref/lab02A.dll
