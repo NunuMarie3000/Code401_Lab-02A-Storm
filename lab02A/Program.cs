@@ -96,7 +96,7 @@ The sum of the array is {sum}
       catch (IndexOutOfRangeException e)
       {
         Console.WriteLine(e.Message);
-        throw new Exception();
+        throw new IndexOutOfRangeException();
       }
     }
 
@@ -108,6 +108,7 @@ The sum of the array is {sum}
       while (divideBy == 0)
       {
         Console.WriteLine($"Please enter a number to divide your product {product} by: ");
+        divideBy = Convert.ToInt32(Console.ReadLine());
       }
 
       decimal quotient = Decimal.Divide((decimal)product, (decimal)divideBy);
