@@ -44,10 +44,10 @@ namespace lab02A
       decimal[] quotient = GetQuotient(product[0]);
 
       Console.WriteLine($@"Your array size is: {userNumbers.Length}
-      The numbers in the array are: {String.Join(",", userNumbers)}
-      The sum of the array is {sum}
-      {sum} * {userNumbers[product[1] - 1]} = {product[0]}
-      {product[0]} / {quotient[1]} = {quotient[0]}");
+The numbers in the array are: {String.Join(",", userNumbers)}
+The sum of the array is {sum}
+{sum} * {userNumbers[product[1] - 1]} = {product[0]}
+{product[0]} / {quotient[1]} = {quotient[0]}");
 
     }
 
